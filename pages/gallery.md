@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Gallery
-subtitle: From the pexels folder
-permalink: /gallery/
+title: contents
+subtitle: 
+permalink: /content/
 gallery_path: "assets/img/pexels"
-tags: [Gallery, Photo]
+tags: [contents]
 ---
 
 This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
